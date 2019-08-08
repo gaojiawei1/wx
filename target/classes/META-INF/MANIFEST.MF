@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: 15370
+Build-Jdk: 10.0.1
+Implementation-Title: wx
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: gjw
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: https://projects.spring.io/spring-boot/wx/
+Created-By: Maven Integration for Eclipse
+
